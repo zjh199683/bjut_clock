@@ -35,3 +35,4 @@
 
 新增打卡微信通知，需要有Server酱的key，只需要登录就能获得一个key，放到脚本里面就可使用了~
 Server酱网站：http://sc.ftqq.com/3.version
+
